@@ -1,11 +1,1 @@
-# buildspace x thirdweb - Build your own DAO with just Javascript
-
-### **Welcome 👋**
-To get started with this course, clone this repo and follow these commands:
-
-1. Run `npm install` at the root of your directory
-2. Run `npm start` to start the project
-3. Start coding!
-
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766) and link your Discord account so you can get access to helpful channels and your instructor!
+Refresh is a DAO management tool with decentralized HR & internal operational functionalities with focuses on DEI within DAO's. With built in features like; easy contributor onboarding, calendar for DAO members availability & Simple DAO member meeting scheduling with a “Quick Sync”, mental health resources and tools to aid members who may be experiencing burnout, voting features that tracks who voted NOT what they voted for to enable freedom of expression & deter peer pressure, and even more tools. Refresh redefines the typical human resources undertone with a member first approach as without members there cannot be a functional DAO.
