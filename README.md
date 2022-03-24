@@ -3,4 +3,6 @@ Refresh is a DAO management tool with decentralized HR & internal operational fu
 
 **Slide Deck Link** (Office Online): https://1drv.ms/p/s!AvIjZaG_WS_MiwEQcQfBeVNWKYQA?e=5XaekF
 
+**Demo**: https://refresh-daos.bubbleapps.io/version-test/
+
 ![Refresh Roadmap](https://user-images.githubusercontent.com/93827142/158127918-a11e31cf-194d-4f61-afd4-d8d4d1a5b1fc.png)
